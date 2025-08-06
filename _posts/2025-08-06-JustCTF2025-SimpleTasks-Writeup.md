@@ -2,7 +2,7 @@
 title: JustCTF 2025 Simple Tasks Writeup - Web
 date: 2025-08-06
 categories: [CTFtime, Web]
-tags: [ejs, express, csrf, css injection, CSP]
+tags: [EJS, Express, CSRF, CSS injection, CSP]
 ---
 
 # Introduction
