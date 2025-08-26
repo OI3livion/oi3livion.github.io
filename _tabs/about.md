@@ -9,6 +9,9 @@ Hi! I'm a **CS** student from **Italy** 🇮🇹.
 **CTF**s are my favourite videogame and i play them on multiple platforms:
 
 - **CTFtime**: [ResetSec](https://ctftime.org/team/266022)
-- **HTB**: [Oblivi0n](https://app.hackthebox.com/profile/74342)
-- **THM**: [DedS3c](https://tryhackme.com/p/DedS3c)
+
+<a href="https://www.hackthebox.eu/home/users/profile/74342"><img src="https://www.hackthebox.eu/badge/image/74342"></a>
+
+<iframe id="thm-badge" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=603185" scrolling="no" style='border: none; height: 83px; width: 326px; border-radius: 12px;'></iframe>
+
 - **Vulnlab**
